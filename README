@@ -10,3 +10,8 @@ This firmware currently supports the following Semtech LoRa product:
 -------------------------------------------------------------------------------
 
 The SX12xx drivers are included in a project made for the STM32F0 platform.	Currently my development hardware is STM32F0 discovery kit (STM32F00308-DISCO) plus SFM-1L SX1278 LoRa module.	
+
+1. Version history
+-------------------------------------------------------------------------------
+
+<V1.0.0> - This is original project from ST which SX1278 radio driver is not ported.
